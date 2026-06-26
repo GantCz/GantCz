@@ -60,4 +60,4 @@ This profile tracks the intentional evolution of transforming theoretical academ
 > "Security is not a static state; it is an engineering discipline." 
 I document my projects to intentionally capture both the configuration validation and the engineering hurdles faced during troubleshooting. Check individual project readmes to see my **"Key Concepts Learned During Security+ Studies"** summaries!
 
-📫 **Connect with me:** [www.linkedin.com/sarah-ganthier] 
+📫 **Connect with me:** [www.linkedin.com/sarah-ganthier]
