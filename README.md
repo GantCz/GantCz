@@ -61,4 +61,4 @@ This profile tracks the intentional evolution of transforming theoretical academ
 I document my projects to intentionally capture both the configuration validation and the engineering hurdles faced during troubleshooting.
 
 
-📫 **Connect with me:** [www.linkedin.com/sarah-ganthier]
+📫 **Connect with me:** [www.linkedin.com/in/sarah-ganthier]
