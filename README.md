@@ -40,7 +40,9 @@ This profile tracks the intentional evolution of transforming theoretical academ
 
 * **[Log Analysis & Active Firewalls](https://github.com/GantCz/Project-1-Log-Analysis):** Analyzed Linux system authentication events (`auth.log`) to uncover distributed brute-force traffic, leveraging `iptables` rules to mitigate active connection handshakes.
 * **[Endpoint Threat Detection & Incident Response](https://github.com/GantCz/Project-2-Endpoint-IR):** Triaged compromised volatile host memory using process monitors, computed SHA-256 binary footprints to generate Indicators of Compromise (IoCs), and executed strict termination sequences.
+* **[Vulnerability Management & Patching](https://github.com/GantCz/Project-3-Vulnerability-Management):** Managed lifecycle and targeted secure patch operations, identified security flaws, cross-referenced deficiencies against the Common Vulnerabilties and Exposures (CVE) index to determine risk severity, and verified underlying dependencies.
 * **[Phishing Simulation & Security Awareness Blueprint](https://github.com/GantCz/Project-4-Phishing-Simulation):** Engineered multi-vector social engineering landing configurations on localized Apache web servers to establish metrics and corporate response playbooks.
+* **[GRC Compliance](https://github.com/GantCz/Project-5-GRC-Compliance):** performed a comprehensive gap analysis and evaluated scenario based operational cybesecurity controls against NIST CSF 2.0.
 
 ---
 
