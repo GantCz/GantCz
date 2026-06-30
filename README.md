@@ -35,7 +35,7 @@ This profile tracks the intentional evolution of transforming theoretical academ
     * *Core Focus:* Adversarial signature mapping, Cross-Site Scripting (XSS), and credential caching mitigations.
     * *Engineering Action:* Re-engineered input validation controls and analyzed the execution footprint of lateral movement patterns (Pass-the-Hash) to draft proactive firewall (WAF) rule sets.
 
-### 📂 Specialized Cybersecurity Operations
+### 📂 [Specialized Cybersecurity Operations](https://github.com/GantCz/Cybersecurity-Analyst-Portfolio)
 *Individual technical repositories focused on specific security operation workflows.*
 
 * **[Log Analysis & Active Firewalls](https://github.com/GantCz/Project-1-Log-Analysis):** Analyzed Linux system authentication events (`auth.log`) to uncover distributed brute-force traffic, leveraging `iptables` rules to mitigate active connection handshakes.
